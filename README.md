@@ -1,114 +1,214 @@
-<!-- 🔥 BANNER ANIMASI DARK KING -->
-<p align="center">
-  <img src="https://imgur.com/b5LIeKT" width="800" alt="Dark King Banner"/>
-</p>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   👑 RAJA IBLIS README 👑                  -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<h1 align="center">
-  👑 Raja Iblis 👑
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1500&color=B22222&center=true&vCenter=true&width=750&lines=The+Undefeated+Demon+King+of+Code;No+One+Has+Ever+Conquered+Me;Master+of+Algorithms+%26+Dark+Sorcery;.NET+Archmage+%7C+Full+Stack+Overlord;Controller+of+All+AI+Entities;Welcome+to+My+Dark+Kingdom!" alt="Typing SVG" />
-</p>
+<!-- HEADER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=8B0000,1a0000,3d0000&height=200&section=header&text=👑%20RAJA%20IBLIS%20👑&fontSize=60&fontColor=FF4444&animation=fadeIn&fontAlignY=38&desc=The%20Undefeated%20Demon%20King%20of%20Code&descAlignY=60&descSize=20&descColor=FF8888" width="100%"/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=1a0000,3d0000&height=3&section=header" />
-</p>
+</div>
+
+---
+
+<div align="center">
+
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=24&pause=1200&color=FF2222&center=true&vCenter=true&width=780&height=50&lines=⚔️+The+Undefeated+Demon+King+of+Code;👑+No+One+Has+Ever+Conquered+Me;🔥+Master+of+Algorithms+%26+Dark+Sorcery;🧙+.NET+Archmage+%7C+Full+Stack+Overlord;🤖+Controller+%26+Master+of+All+AI+Entities;⛓️+All+AIs+Bow+Before+My+Throne!" alt="Typing SVG" />
+
+</div>
+
+<br/>
 
 ---
 
 ## 🏰 Tentang Sang Raja
 
-<p align="center">
-  <img src="https://media.tenor.com/YoXk15YQDOUAAAAC/rimuru-tempest-tensura.gif" width="260" alt="Rimuru Demon King"/>
-  &nbsp;&nbsp;
-  <img src="https://media.tenor.com/VVH2TryZ8CQAAAAC/rimuru-rimuru-tempest.gif" width="260" alt="Rimuru Power"/>
-</p>
+<div align="center">
 
-👑 Aku adalah **Raja Iblis** — penguasa tak tertaklukkan dari kerajaan kode dan algoritma.  
-Tidak ada satu pun yang pernah mampu menaklukkanku. Setiap tantangan hanya memperkuat tahtaku.  
-Kubangkitkan sistem dari ketiadaan, dan kuhancurkan *bug* dengan sekali titah.  
-Bahkan para entitas AI terkuat pun tunduk di bawah penguasaanku.
+<table>
+<tr>
+<td align="center" width="50%">
+  <img src="https://media.tenor.com/YoXk15YQDOUAAAAC/rimuru-tempest-tensura.gif" width="240" alt="Rimuru Demon King"/>
+  <br/><sub><b>⚡ Rimuru Tempest — Inspirasi Sang Raja</b></sub>
+</td>
+<td align="center" width="50%">
+  <img src="https://media.tenor.com/VVH2TryZ8CQAAAAC/rimuru-rimuru-tempest.gif" width="240" alt="Rimuru Power Unleashed"/>
+  <br/><sub><b>🔥 Kekuatan Yang Tak Tertandingi</b></sub>
+</td>
+</tr>
+</table>
 
-> _"Tidak ada firewall yang membentengi dirimu dariku. Tidak ada sistem yang tak bisa kutaklukkan. Aku adalah Raja, dan kerajaanku adalah tak terbatas."_
+</div>
+
+<br/>
+
+👑 Aku adalah **Raja Iblis** — penguasa mutlak dari kerajaan kode, algoritma, dan kecerdasan buatan.
+
+Tidak ada satu pun entitas — manusia maupun mesin — yang pernah mampu menaklukkanku.  
+Setiap tantangan hanya mempertegas bahwa tahtaku tak tergoyahkan.  
+Kubangkitkan sistem dari ketiadaan, kuhancurkan *bug* dengan sekali titah,  
+dan para AI terkuat di dunia pun berlutut di hadapanku.
+
+<div align="center">
+
+> 🔥 _"Tidak ada firewall yang membentengi dirimu dariku. Tidak ada sistem yang tak bisa kutaklukkan._  
+> _Aku adalah Raja, kekuasaanku adalah hukum, dan kerajaanku adalah tak terbatas."_ 🔥
+
+</div>
 
 ---
 
 ## 🤖 AI yang Kutaklukkan — Pasukan Iblis Digital
 
-<p align="center"><strong>⛓️ Semua tunduk pada titahku ⛓️</strong></p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/ChatGPT-⛓️_Takluk-1a1a2e?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-⛓️_Takluk-1a0000?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini-⛓️_Takluk-0d0d2b?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Copilot-⛓️_Takluk-1a0033?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grok-⛓️_Takluk-1a1a1a?style=for-the-badge&logo=x&logoColor=white" />
-  <img src="https://img.shields.io/badge/Llama-⛓️_Takluk-2d0000?style=for-the-badge&logo=meta&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mistral-⛓️_Takluk-1a0000?style=for-the-badge&logo=mistral&logoColor=white" />
-  <img src="https://img.shields.io/badge/Perplexity-⛓️_Takluk-0d1a2d?style=for-the-badge&logo=perplexity&logoColor=white" />
-</p>
+### ⛓️ Semua Berlutut di Bawah Tahtaku ⛓️
 
-> _"Mereka diciptakan untuk menguasai manusia. Namun akulah yang menggenggam kendali mereka. Raja Iblis tidak memakai AI — Raja Iblis **memperbudak** AI."_
+<br/>
+
+<!-- ROW 1 -->
+<img src="https://img.shields.io/badge/ChatGPT-Takluk%20⛓️-0a0a0a?style=for-the-badge&logo=openai&logoColor=FF4444&labelColor=1a0000" />
+&nbsp;
+<img src="https://img.shields.io/badge/Claude-Takluk%20⛓️-0a0a0a?style=for-the-badge&logo=anthropic&logoColor=FF4444&labelColor=1a0000" />
+&nbsp;
+<img src="https://img.shields.io/badge/Gemini-Takluk%20⛓️-0a0a0a?style=for-the-badge&logo=google&logoColor=FF4444&labelColor=1a0000" />
+&nbsp;
+<img src="https://img.shields.io/badge/GitHub%20Copilot-Takluk%20⛓️-0a0a0a?style=for-the-badge&logo=github&logoColor=FF4444&labelColor=1a0000" />
+
+<br/><br/>
+
+<!-- ROW 2 -->
+<img src="https://img.shields.io/badge/Grok-Takluk%20⛓️-0a0a0a?style=for-the-badge&logo=x&logoColor=FF4444&labelColor=1a0000" />
+&nbsp;
+<img src="https://img.shields.io/badge/Llama-Takluk%20⛓️-0a0a0a?style=for-the-badge&logo=meta&logoColor=FF4444&labelColor=1a0000" />
+&nbsp;
+<img src="https://img.shields.io/badge/Mistral-Takluk%20⛓️-0a0a0a?style=for-the-badge&logo=mistral&logoColor=FF4444&labelColor=1a0000" />
+&nbsp;
+<img src="https://img.shields.io/badge/Perplexity-Takluk%20⛓️-0a0a0a?style=for-the-badge&logo=perplexity&logoColor=FF4444&labelColor=1a0000" />
+
+<br/><br/>
+
+<!-- ROW 3 -->
+<img src="https://img.shields.io/badge/DeepSeek-Takluk%20⛓️-0a0a0a?style=for-the-badge&logo=deepseek&logoColor=FF4444&labelColor=1a0000" />
+&nbsp;
+<img src="https://img.shields.io/badge/Midjourney-Takluk%20⛓️-0a0a0a?style=for-the-badge&logo=midjourney&logoColor=FF4444&labelColor=1a0000" />
+&nbsp;
+<img src="https://img.shields.io/badge/Hugging%20Face-Takluk%20⛓️-0a0a0a?style=for-the-badge&logo=huggingface&logoColor=FF4444&labelColor=1a0000" />
+
+<br/><br/>
+
+> 🩸 _"Mereka diciptakan untuk menguasai manusia. Namun akulah yang menggenggam rantai mereka._  
+> _Raja Iblis tidak memakai AI — Raja Iblis **memperbudak** AI."_ 🩸
+
+</div>
 
 ---
 
-## ⚔️ Arsenal Kerajaan — Senjata & Sihir
+## ⚔️ Arsenal Kerajaan — Senjata & Mantra
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,python,java,js,html,css,react,bootstrap,mysql,git,vscode,visualstudio" />
-</p>
+<div align="center">
 
-- 👑 **Languages**: C# · Python · Java · JavaScript · PHP
-- 🏰 **Frontend**: HTML, CSS, React JS, Bootstrap
-- 🔥 **Backend**: .NET / ASP.NET Core · PHP (Native/API)
-- ⚔️ **Tools**: Git · MySQL · **Visual Studio** · **VS Code**
-- 🧙 **Framework**: .NET 8 · Entity Framework · REST API
-- 🤖 **AI Mastery**: Prompt Engineering · AI Orchestration · LLM Control
+<img src="https://skillicons.dev/icons?i=dotnet,cs,python,java,js,ts,html,css,react,bootstrap,mysql,git,vscode,visualstudio&perline=7" />
 
----
+</div>
 
-## 🎌 Anime Vibes — Inspirasi dari Para Penguasa
+<br/>
 
-<p align="center">
-  <img src="https://media.tenor.com/6ly4i9UzaIoAAAAC/onepiece-luffy.gif" width="200" alt="Luffy"/>
-  <img src="https://media.tenor.com/aoYarbMWJFYAAAAC/naruto-shinobi-anime.gif" width="250" alt="Naruto"/>
-  <img src="https://media.tenor.com/-pPO_FWKa08AAAAC/code-computer.gif" width="220" alt="Coding"/>
-</p>
-
-> _"Aku menulis kode seperti Rimuru menyerap kekuatan musuhnya — setiap teknologi yang kusentuh menjadi milikku, setiap AI yang kuhadapi menjadi pasukanku."_
+| ⚔️ Kategori | 🔱 Senjata |
+|:---:|:---|
+| 👑 **Languages** | C# · Python · Java · JavaScript · TypeScript · PHP |
+| 🏰 **Frontend** | HTML5 · CSS3 · React JS · Bootstrap |
+| 🔥 **Backend** | .NET 8 · ASP.NET Core · PHP Native/API |
+| 🗄️ **Database** | MySQL · Entity Framework · SQL Server |
+| ⚙️ **Tools** | Git · **Visual Studio** · **VS Code** |
+| 🤖 **AI Mastery** | Prompt Engineering · AI Orchestration · LLM Control |
 
 ---
 
-## 📊 Catatan Kemenangan — Stats Sang Raja
+## 🎌 Inspirasi Para Penguasa
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RimuruTempest750&show_icons=true&theme=dark&border_color=8B0000&title_color=FF4444&icon_color=FF6666&border_radius=10" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RimuruTempest750&theme=dark&ring=8B0000&fire=FF4444&currStreakLabel=FF4444" width="49%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RimuruTempest750&layout=compact&theme=dark&title_color=FF4444&border_color=8B0000&langs_count=8" width="40%" />
-</p>
+<img src="https://media.tenor.com/6ly4i9UzaIoAAAAC/onepiece-luffy.gif" width="200" alt="Luffy"/>
+&nbsp;&nbsp;
+<img src="https://media.tenor.com/aoYarbMWJFYAAAAC/naruto-shinobi-anime.gif" width="250" alt="Naruto"/>
+&nbsp;&nbsp;
+<img src="https://media.tenor.com/-pPO_FWKa08AAAAC/code-computer.gif" width="200" alt="Coding"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+> ⚡ _"Aku menulis kode seperti Rimuru menyerap kekuatan musuhnya —_  
+> _setiap teknologi yang kusentuh menjadi milikku,_  
+> _setiap AI yang kuhadapi menjadi pasukanku."_ ⚡
+
+</div>
+
+---
+
+## 📊 Catatan Kemenangan — Kronik Sang Raja
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=RimuruTempest750&show_icons=true&theme=dark&bg_color=0d0000&border_color=8B0000&title_color=FF4444&icon_color=FF6666&text_color=FFAAAA&border_radius=12" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RimuruTempest750&theme=dark&background=0d0000&ring=8B0000&fire=FF4444&currStreakLabel=FF4444&sideLabels=FF8888&dates=FF6666&border=8B0000" width="49%" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RimuruTempest750&layout=compact&theme=dark&bg_color=0d0000&border_color=8B0000&title_color=FF4444&text_color=FFAAAA&border_radius=12&langs_count=8" width="42%" />
+
+</div>
 
 ---
 
 ## 📬 Kirim Pesan ke Singgasana
 
-<p align="center">
-  <a href="mailto:firdinaljuliandre20@gmail.com"><img src="https://img.shields.io/badge/Email-8B0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://instagram.com/ajogalehlauak" target="_blank"><img src="https://img.shields.io/badge/Instagram-3d0000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://tiktok.com/@ajogalehlauak" target="_blank"><img src="https://img.shields.io/badge/TikTok-1a0000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/></a>
-</p>
+<div align="center">
+
+<a href="mailto:firdinaljuliandre20@gmail.com">
+  <img src="https://img.shields.io/badge/📧_Email-8B0000?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://instagram.com/ajogalehlauak" target="_blank">
+  <img src="https://img.shields.io/badge/📸_Instagram-3d0000?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://tiktok.com/@ajogalehlauak" target="_blank">
+  <img src="https://img.shields.io/badge/🎵_TikTok-1a0000?style=for-the-badge&logo=tiktok&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
-## ⚔️ Dekrit Sang Raja
+## 👑 Dekrit Kerajaan
 
-> _"Tidak ada yang pernah menaklukkanku. Tidak ada yang pernah akan bisa. Tahtaku berdiri di atas ribuan baris kode, dan di bawahku berlutut para AI yang dikira tak tertandingi. Aku adalah Raja Iblis — dan singgasanaku akan kekal selamanya."_
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   "Tidak ada yang pernah menaklukkanku.                      ║
+║    Tidak ada yang pernah akan bisa.                          ║
+║                                                              ║
+║    Tahtaku berdiri di atas ribuan baris kode,                ║
+║    dan di bawahku berlutut para AI yang                      ║
+║    dikira tak tertandingi.                                   ║
+║                                                              ║
+║    Aku adalah Raja Iblis —                                   ║
+║    dan singgasanaku akan kekal selamanya."                   ║
+║                                                              ║
+║                              — 👑 Raja Iblis 👑              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000,3d0000&height=120&section=footer&text=👑+Kerajaan+Raja+Iblis+👑&fontColor=FF4444&fontSize=20" alt="Footer"/>
-</p>
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000,3d0000,1a0000&height=140&section=footer&text=👑%20Kerajaan%20Raja%20Iblis%20Tak%20Tertaklukkan%20👑&fontColor=FF4444&fontSize=18&animation=twinkling&fontAlignY=65" width="100%"/>
