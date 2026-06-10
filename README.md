@@ -1,78 +1,87 @@
-<!-- 🎴 BANNER ANIMASI ANIME -->
+<!-- 🔥 BANNER ANIMASI DARK KING -->
 <p align="center">
-  <img src="https://media.giphy.com/media/QBDTL7TA2EPlK/giphy.gif" width="800" alt="Anime Banner"/>
+  <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" width="800" alt="Dark King Banner"/>
 </p>
 
 <h1 align="center">
-  🌊 <span style="color:#FDD835;">Firdinal Juliandre</span> 🎌
+  👑 Raja Iblis 👑
 </h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1500&color=FDD835&center=true&vCenter=true&width=700&lines=Final+Year+Information+System+Student;Passionate+about+Algorithms+%26+Elegant+Code;Inspired+by+One+Piece+%26+Naruto;Welcome+to+my+GitHub+Adventure!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1500&color=B22222&center=true&vCenter=true&width=750&lines=The+Undefeated+Demon+King+of+Code;No+One+Has+Ever+Conquered+Me;Master+of+Algorithms+%26+Dark+Sorcery;.NET+Archmage+%7C+Full+Stack+Overlord;Welcome+to+My+Dark+Kingdom!" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1a0000,3d0000&height=3&section=header" />
 </p>
 
 ---
 
-## 🧙 Tentang Saya
+## 🏰 Tentang Sang Raja
 
-👋 Saya **Firdinal Juliandre**, mahasiswa Sistem Informasi di Universitas Dharma Andalas.  
-Saya gemar menjelajahi dunia **algoritma** & **pemrograman**, serta sangat mengagumi estetika visual dari anime Jepang seperti *One Piece* & *Naruto*.
+👑 Aku adalah **Raja Iblis** — penguasa tak tertaklukkan dari kerajaan kode dan algoritma.  
+Tidak ada satu pun yang pernah mampu menaklukkanku. Setiap tantangan hanya memperkuat tahtaku.  
+Kubangkitkan sistem dari ketiadaan, dan kuhancurkan *bug* dengan sekali titah.
 
-> _“Saya menulis kode seperti seorang shinobi menghasilkan jutsu—dengan presisi, seni, dan tekad.”_
-
----
-
-## ⚙️ Keahlian & Item in My Treasure
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,python,java,js,html,css,react,bootstrap,mysql,git,vscode" />
-</p>
-
-- 🌀 **Languages**: PHP · Python · Java · JavaScript  
-- 🔱 **Frontend**: HTML, CSS, React JS, Bootstrap  
-- ☠️ **Backend**: PHP (Native/API)  
-- 📦 **Tools**: Git · MySQL · VS Code
+> _"Tidak ada firewall yang membentengi dirimu dariku. Tidak ada sistem yang tak bisa kutaklukkan. Aku adalah Raja, dan kerajaanku adalah tak terbatas."_
 
 ---
 
-## 🎌 Anime Vibes
+## ⚔️ Arsenal Kerajaan — Senjata & Sihir
 
 <p align="center">
-  <img src="https://media.tenor.com/6ly4i9UzaIoAAAAC/onepiece-luffy.gif" width="200" alt="Luffy Punch"/>
-  <img src="https://media.tenor.com/aoYarbMWJFYAAAAC/naruto-shinobi-anime.gif" width="250" alt="Naruto Animation"/>
-  <img src="https://media.tenor.com/-pPO_FWKa08AAAAC/code-computer.gif" width="220" alt="Anime Coding"/>
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,python,java,js,html,css,react,bootstrap,mysql,git,vscode,visualstudio" />
 </p>
+
+- 👑 **Languages**: C# · Python · Java · JavaScript · PHP
+- 🏰 **Frontend**: HTML, CSS, React JS, Bootstrap
+- 🔥 **Backend**: .NET / ASP.NET Core · PHP (Native/API)
+- ⚔️ **Tools**: Git · MySQL · **Visual Studio** · **VS Code**
+- 🧙 **Framework**: .NET 8 · Entity Framework · REST API
 
 ---
 
-## 📊 GitHub Stats & Ninja Skills
+## 🎌 Anime Vibes — Inspirasi dari Para Penguasa
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RimuruTempest750&show_icons=true&theme=gruvbox&border_radius=10" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RimuruTempest750&theme=gruvbox" width="49%" />
+  <img src="https://media.tenor.com/6ly4i9UzaIoAAAAC/onepiece-luffy.gif" width="200" alt="Luffy"/>
+  <img src="https://media.tenor.com/aoYarbMWJFYAAAAC/naruto-shinobi-anime.gif" width="250" alt="Naruto"/>
+  <img src="https://media.tenor.com/-pPO_FWKa08AAAAC/code-computer.gif" width="220" alt="Coding"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RimuruTempest750&layout=compact&theme=gruvbox&langs_count=7" width="40%" />
-</p>
+> _"Aku menulis kode seperti seorang Raja menggerakkan pasukannya — setiap baris adalah titah, setiap fungsi adalah hukum kerajaan."_
 
 ---
 
-## 📬 Hubungi Saya
+## 📊 Catatan Kemenangan — Stats Sang Raja
 
 <p align="center">
-  <a href="mailto:firdinaljuliandre20@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
-  <a href="https://instagram.com/ajogalehlauak" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
-  <a href="https://tiktok.com/@ajogalehlauak" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok Badge"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=RimuruTempest750&show_icons=true&theme=dark&border_color=8B0000&title_color=FF4444&icon_color=FF6666&border_radius=10" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RimuruTempest750&theme=dark&ring=8B0000&fire=FF4444&currStreakLabel=FF4444" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RimuruTempest750&layout=compact&theme=dark&title_color=FF4444&border_color=8B0000&langs_count=8" width="40%" />
 </p>
 
 ---
 
-### ✨ Motto of a Code Ninja
+## 📬 Kirim Pesan ke Singgasana
 
-> _“Bagaikan rasengan atau haki, setiap baris kode harus meledak efektif dan indah.”_
+<p align="center">
+  <a href="mailto:firdinaljuliandre20@gmail.com"><img src="https://img.shields.io/badge/Email-8B0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://instagram.com/ajogalehlauak" target="_blank"><img src="https://img.shields.io/badge/Instagram-3d0000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://tiktok.com/@ajogalehlauak" target="_blank"><img src="https://img.shields.io/badge/TikTok-1a0000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/></a>
+</p>
+
+---
+
+## ⚔️ Dekrit Sang Raja
+
+> _"Tidak ada yang pernah menaklukkanku. Tidak ada yang pernah akan bisa. Tahtaku berdiri di atas ribuan baris kode yang telah kutaklukkan — dan singgasanaku akan kekal selamanya."_
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FDD835&height=120&section=footer" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000,3d0000&height=120&section=footer&text=👑+Kerajaan+Raja+Iblis+👑&fontColor=FF4444&fontSize=20" alt="Footer"/>
 </p>
