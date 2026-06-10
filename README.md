@@ -1,6 +1,6 @@
 <!-- 🔥 BANNER ANIMASI DARK KING -->
 <p align="center">
-  <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" width="800" alt="Dark King Banner"/>
+  <img src="https://imgur.com/b5LIeKT" width="800" alt="Dark King Banner"/>
 </p>
 
 <h1 align="center">
