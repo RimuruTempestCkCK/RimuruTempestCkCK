@@ -1,69 +1,166 @@
-<!-- HEADER WAVE -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=8B0000,1a0000,3d0000&height=200&section=header&text=👑%20RAJA%20IBLIS%20👑&fontSize=60&fontColor=FF4444&animation=fadeIn&fontAlignY=38&desc=The%20Undefeated%20Demon%20King%20of%20Code&descAlignY=60&descSize=20&descColor=FF8888" width="100%"/>
+![Header](https://capsule-render.vercel.app/api?type=venom&color=8B0000,1a0000,3d0000&height=250&section=header&text=👑%20RAJA%20IBLIS%20👑&fontSize=70&fontColor=FF4444&animation=fadeIn&fontAlignY=38&desc=The%20Undefeated%20Demon%20King%20of%20Code&descAlignY=65&descSize=20&descColor=FF8888)
+
+## 🌑 Tentang Saya
+
+Aku adalah Raja Iblis—penguasa kegelapan yang tidak lahir dari ketakutan, melainkan dari **kekuatan**, **kecerdasan**, dan **ambisi tanpa batas**. Di balik tatapan tenang, tersimpan kekuasaan yang mampu mengguncang dunia, membuat musuh tunduk, dan menjadikan namaku legenda di antara bayangan.
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+### **Backend & Programming**
+<table>
+<tr>
+<td align="center" width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="80" height="80" alt="C#"/>
+<br><b>C#</b>
+</td>
+<td align="center" width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="80" height="80" alt="Java"/>
+<br><b>Java</b>
+</td>
+<td align="center" width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80" height="80" alt="Python"/>
+<br><b>Python</b>
+</td>
+<td align="center" width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="80" height="80" alt="PHP"/>
+<br><b>PHP</b>
+</td>
+<td align="center" width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="80" height="80" alt="Kotlin"/>
+<br><b>Kotlin</b>
+</td>
+</tr>
+</table>
+
+### **Frontend & UI**
+<table>
+<tr>
+<td align="center" width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80" height="80" alt="JavaScript"/>
+<br><b>JavaScript</b>
+</td>
+<td align="center" width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="80" height="80" alt="HTML5"/>
+<br><b>HTML5</b>
+</td>
+<td align="center" width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="80" height="80" alt="Bootstrap"/>
+<br><b>Bootstrap</b>
+</td>
+<td align="center" width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blazor/blazor-original.svg" width="80" height="80" alt="Blazor"/>
+<br><b>Blazor</b>
+</td>
+</tr>
+</table>
+
+### **Frameworks & Server**
+<table>
+<tr>
+<td align="center" width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="80" height="80" alt=".NET"/>
+<br><b>.NET</b>
+</td>
+<td align="center" width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="80" height="80" alt="Flask"/>
+<br><b>Flask</b>
+</td>
+<td align="center" width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="80" height="80" alt="Apache"/>
+<br><b>Apache</b>
+</td>
+<td align="center" width="100px">
+<img src="https://raw.githubusercontent.com/codeigniter4/shield/develop/src/images/ci-logo.svg" width="80" height="80" alt="CodeIgniter"/>
+<br><b>CodeIgniter</b>
+</td>
+</tr>
+</table>
+
+### **Database & Storage**
+<table>
+<tr>
+<td align="center" width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="80" height="80" alt="MySQL"/>
+<br><b>MySQL</b>
+</td>
+<td align="center" width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="80" height="80" alt="PostgreSQL"/>
+<br><b>PostgreSQL</b>
+</td>
+<td align="center" width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="80" height="80" alt="SQLite"/>
+<br><b>SQLite</b>
+</td>
+<td align="center" width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="80" height="80" alt="MSSQL"/>
+<br><b>MSSQL</b>
+</td>
+</tr>
+</table>
+
+### **Cloud & DevOps**
+<table>
+<tr>
+<td align="center" width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="80" height="80" alt="Azure"/>
+<br><b>Azure</b>
+</td>
+<td align="center" width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="80" height="80" alt="Firebase"/>
+<br><b>Firebase</b>
+</td>
+<td align="center" width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="80" height="80" alt="Google Cloud"/>
+<br><b>Google Cloud</b>
+</td>
+<td align="center" width="100px">
+<img src="https://supabase.com/favicon.ico" width="80" height="80" alt="Supabase"/>
+<br><b>Supabase</b>
+</td>
+</tr>
+</table>
+
+### **Version Control & Tools**
+<table>
+<tr>
+<td align="center" width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="80" height="80" alt="Git"/>
+<br><b>Git</b>
+</td>
+<td align="center" width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="80" height="80" alt="GitHub"/>
+<br><b>GitHub</b>
+</td>
+<td align="center" width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="80" height="80" alt="GitLab"/>
+<br><b>GitLab</b>
+</td>
+<td align="center" width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="80" height="80" alt="Anaconda"/>
+<br><b>Anaconda</b>
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 Aktivitas & Kontribusi
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=raja-iblis&theme=dark-dimmed&hide_border=true&area=true)
+
+---
+
+## 📈 Statistik GitHub
+
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=raja-iblis&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=1a1a1a&border_color=8B0000" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raja-iblis&layout=compact&langs_count=8&theme=dark&bg_color=1a1a1a&border_color=8B0000" />
 </div>
 
 ---
 
-## 🌑 Tentang Saya
-
-Aku adalah Raja Iblis—penguasa kegelapan yang tidak lahir dari ketakutan, melainkan dari kekuatan, kecerdasan, dan ambisi tanpa batas. Di balik tatapan tenang, tersimpan kekuasaan yang mampu mengguncang dunia, membuat musuh tunduk, dan menjadikan namaku legenda di antara bayangan.
-
----
-
-## 💻 Tech Stack
-
-### Programming Languages
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
-
-### Backend & Frameworks
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Code-Igniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D70015?style=for-the-badge&logo=apache&logoColor=white)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### Cloud & Services
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-### Tools & Version Control
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
-
-### Data Science
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-
----
-
-## 📊 Contribution Graph
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
----
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=100&section=footer&reversal=false" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=120&section=footer&reversal=true" width="100%"/>
 </div>
